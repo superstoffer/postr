@@ -6,6 +6,7 @@
 			{{ HTML::style('css/bootstrap.min.css') }}
 			{{ HTML::style('css/bootstrap-theme.css') }}
 			{{ HTML::style('css/app.css') }}
+			{{ HTML::style('css/bootstrap-app.css') }}
 
 			{{ HTML::script('js/jquery-1.10.2.min.js') }}
 			{{ HTML::script('js/bootstrap.min.js') }}

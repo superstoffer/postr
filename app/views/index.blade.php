@@ -15,7 +15,7 @@
             <p>Wow them with your photo-filtering abilities!</p>
             <p>Let them see what a great photographer you are!</p>
             <hr>
-			<p><a href="about" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+			<p><a href="about" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 		</div>
 		<div class="col-md-4">
 			{{ HTML::image('/img/iphone5.png', $alt="iPhone 5", $attributes = array()) }}

@@ -18,3 +18,4 @@
 
 Route::get('/', 'HomeController@showWelcome');
 Route::get('login', 'LoginController@action_index');
+Route::get('about', 'HomeController@about');
